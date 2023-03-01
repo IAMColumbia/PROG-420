@@ -1,0 +1,3 @@
+/home/karl/src/PROG-420/CMakeFiles/app.dir
+/home/karl/src/PROG-420/CMakeFiles/edit_cache.dir
+/home/karl/src/PROG-420/CMakeFiles/rebuild_cache.dir
